@@ -1,2 +1,2 @@
 # Alura-Forum
-Curso de Spring Boot ALura
+Curso de Spring Boot Alura
